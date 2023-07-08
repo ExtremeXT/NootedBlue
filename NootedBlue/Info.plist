@@ -380,10 +380,10 @@
 				<integer>0</integer>
 			</dict>
 		</dict>
-		<key>Framebuffer (CFL)</key>
+		<key>Framebuffer (KBL)</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
-			<string>com.apple.driver.AppleIntelCFLGraphicsFramebuffer</string>
+			<string>com.apple.driver.AppleIntelKBLGraphicsFramebuffer</string>
 			<key>Debug</key>
 			<dict>
 				<key>LogEnable</key>
